@@ -1,0 +1,47 @@
+header h1 {
+     font-family:Helvetia; 
+     font-size:100px;
+     font-weight:bold;
+     color:Khaki;
+     text-align: center;
+     z-index: 1;
+     background-image: url("../images/pattern-tile.webp");
+
+}
+header img {
+    display: inline-block;
+    z-index: 0;
+    position: static; 
+    height:200px
+
+}  
+
+.brushes {
+    font-family:Helvetia; 
+     font-size:32px;
+     font-weight:bold;
+     color:white;
+     background-color: mediumspringgreen
+
+}
+.frames{
+    font-family:Helvetia; 
+     font-size:32px;
+     font-weight:bold;
+     color:white;
+     background-color:lightcoral
+
+}
+.paint{
+    font-family:Helvetia; 
+     font-size:32px;
+     font-weight:bold;
+     color:white;
+     background-color:skyblue
+
+}
+a {
+    font-family:Helvetia;
+    font-weight:bold;
+    color:blue;
+}
